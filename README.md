@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🙋‍♂️ All about me is at **[My Website](https://rutikshirkeportfolio.web.app/)**
 
-- 🌱 I’m currently learning `MERN Stack`
-
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
